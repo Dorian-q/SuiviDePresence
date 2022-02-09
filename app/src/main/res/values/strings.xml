@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SuiviDePresence</string>
+    <string name="login">login</string>
+    <string name="date">date</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="register">register</string>
 </resources>
