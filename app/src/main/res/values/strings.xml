@@ -5,4 +5,6 @@
     <string name="email">email</string>
     <string name="password">password</string>
     <string name="register">register</string>
+    <string name="take_barcode_picture">take barcode picture</string>
+    <string name="scan_barcode">scan barcode</string>
 </resources>

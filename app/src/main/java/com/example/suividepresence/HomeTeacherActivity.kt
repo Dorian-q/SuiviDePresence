@@ -10,14 +10,14 @@ import android.widget.ImageView
 import com.google.zxing.BarcodeFormat
 import com.google.zxing.qrcode.QRCodeWriter
 
-class MainActivity : AppCompatActivity() {
+class HomeTeacherActivity : AppCompatActivity() {
     private lateinit var button: Button
     private lateinit var editText: EditText
     private lateinit var imageView: ImageView
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_home_teacher)
 
         // initializing views
         button = findViewById(R.id.button)

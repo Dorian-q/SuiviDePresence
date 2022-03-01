@@ -4,9 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/clara/AndroidStudioProjects/SuiviDePresence/app/src/main/res/drawable/ic_baseline_texture_100.xml" value="0.2015" />
+        <entry key="..\:/Users/clara/AndroidStudioProjects/SuiviDePresence/app/src/main/res/layout/activity_home_teacher.xml" value="0.18297101449275363" />
         <entry key="..\:/Users/clara/AndroidStudioProjects/SuiviDePresence/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/Users/clara/AndroidStudioProjects/SuiviDePresence/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/clara/AndroidStudioProjects/SuiviDePresence/app/src/main/res/layout/activity_main2.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/clara/AndroidStudioProjects/SuiviDePresence/app/src/main/res/layout/activity_picture_barcode.xml" value="0.18297101449275363" />
         <entry key="..\:/Users/clara/AndroidStudioProjects/SuiviDePresence/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/clara/AndroidStudioProjects/SuiviDePresence/app/src/main/res/layout/activity_scanned_barcode.xml" value="0.18297101449275363" />
       </map>
     </option>
   </component>
